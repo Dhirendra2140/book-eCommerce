@@ -28,3 +28,6 @@
 {"message":"No token is provided","level":"error","timestamp":"2021-09-10T07:16:12.339Z"}
 {"message":"POST /users/logi?password=super@123 401 - 1.567 ms","level":"info","timestamp":"2021-09-10T07:16:12.341Z"}
 {"message":"POST /users/logi?password=super@123 404 - 6.937 ms","level":"info","timestamp":"2021-09-10T07:16:20.345Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-10T11:00:06.400Z"}
+{"message":"ERROR_WHILE_MAIL_SENDING","level":"error","timestamp":"2021-09-10T11:02:12.645Z"}
+{"message":"POST /users/signup 400 - 3176.886 ms","level":"info","timestamp":"2021-09-10T11:02:12.673Z"}

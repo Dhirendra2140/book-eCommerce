@@ -17,3 +17,4 @@ error: Invalid or missing API key {"timestamp":"2021-09-10T07:07:30.015Z"}
 error: No token is provided {"timestamp":"2021-09-10T07:10:28.219Z"}
 error: Invalid or missing API key {"timestamp":"2021-09-10T07:15:41.041Z"}
 error: No token is provided {"timestamp":"2021-09-10T07:16:12.339Z"}
+error: ERROR_WHILE_MAIL_SENDING {"timestamp":"2021-09-10T11:02:12.646Z"}
