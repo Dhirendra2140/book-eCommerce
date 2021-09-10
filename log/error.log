@@ -1,0 +1,19 @@
+error: No user role data found in the database {"timestamp":"2021-09-09T07:29:24.004Z"}
+error: No user role data found in the database {"timestamp":"2021-09-09T07:29:33.778Z"}
+error: No user role data found in the database {"timestamp":"2021-09-09T07:34:46.920Z"}
+error: Invalid or missing API key {"timestamp":"2021-09-09T08:43:34.151Z"}
+error: Invalid or missing API key {"timestamp":"2021-09-09T08:43:38.475Z"}
+error: No user role data found in the database {"timestamp":"2021-09-09T08:44:07.561Z"}
+error: No user role data found in the database {"timestamp":"2021-09-09T08:48:02.780Z"}
+error: No user role data found in the database {"timestamp":"2021-09-09T08:56:31.091Z"}
+error: ERROR_WHILE_MAIL_SENDING {"timestamp":"2021-09-09T08:59:45.284Z"}
+error: Invalid or missing API key {"timestamp":"2021-09-10T06:38:32.054Z"}
+error: Invalid or missing API key {"timestamp":"2021-09-10T06:39:28.999Z"}
+error: E11000 duplicate key error collection: mydb.users index: basic.email_1 dup key: { : "shridhar.bhande@tudip.nl" } {"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: mydb.users index: basic.email_1 dup key: { : \"shridhar.bhande@tudip.nl\" }","op":{"updatedAt":"2021-09-10T06:42:42.550Z","createdAt":"2021-09-10T06:42:42.550Z","_id":"613afe623be66b0cf82b8e50","programName":"","sessionStatus":"","positionImages":[],"userStatus":"Not Verified","isActive":true,"basic":{"firstName":"super","lastName":"man","email":"shridhar.bhande@tudip.nl","password":"$2a$10$Y00e52Izp6m6x5WdYtfcLuiRSy3rmcj0Wnq27Xp0CaQb5YH5oAfFi","mobileNumber":"","roles":[{"role":"6038cd8a723a4004bb3a50cd","name":"admin","_id":"613afe623be66b0cf82b8e51"}],"profileImageURL":"/public/images/profiles/default.png","isActive":false},"__v":0}}
+error: E11000 duplicate key error collection: mydb.users index: basic.email_1 dup key: { : "super09@man.com" } {"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: mydb.users index: basic.email_1 dup key: { : \"super09@man.com\" }","op":{"updatedAt":"2021-09-10T06:50:36.110Z","createdAt":"2021-09-10T06:50:36.110Z","_id":"613b003c2d3a081454937447","programName":"","sessionStatus":"","positionImages":[],"userStatus":"Not Verified","isActive":true,"basic":{"firstName":"super","lastName":"man","email":"super09@man.com","password":"$2a$10$FMnm8m.d9DZiTpCyURVhWO58V537V7cLq6xRYPXFSZMw2ALIYhOha","mobileNumber":"","roles":[{"role":"6038cd8a723a4004bb3a50cd","name":"admin","_id":"613b003c2d3a081454937448"}],"profileImageURL":"/public/images/profiles/default.png","isActive":false},"__v":0}}
+error: No user role data found in the database {"timestamp":"2021-09-10T07:01:53.375Z"}
+error: ERROR_WHILE_MAIL_SENDING {"timestamp":"2021-09-10T07:03:06.410Z"}
+error: Invalid or missing API key {"timestamp":"2021-09-10T07:07:30.015Z"}
+error: No token is provided {"timestamp":"2021-09-10T07:10:28.219Z"}
+error: Invalid or missing API key {"timestamp":"2021-09-10T07:15:41.041Z"}
+error: No token is provided {"timestamp":"2021-09-10T07:16:12.339Z"}

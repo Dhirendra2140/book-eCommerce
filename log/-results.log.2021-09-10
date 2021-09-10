@@ -1,0 +1,30 @@
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-10T06:29:09.663Z"}
+{"message":"Invalid or missing API key","level":"error","timestamp":"2021-09-10T06:38:32.053Z"}
+{"message":"POST /users/signup 400 - 12.177 ms","level":"info","timestamp":"2021-09-10T06:38:32.099Z"}
+{"message":"Invalid or missing API key","level":"error","timestamp":"2021-09-10T06:39:28.999Z"}
+{"message":"POST /users/signup 400 - 12.777 ms","level":"info","timestamp":"2021-09-10T06:39:29.001Z"}
+{"message":"POST /users/signup 400 - 5.651 ms","level":"info","timestamp":"2021-09-10T06:39:54.756Z"}
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: mydb.users index: basic.email_1 dup key: { : \"shridhar.bhande@tudip.nl\" }","op":{"updatedAt":"2021-09-10T06:42:42.550Z","createdAt":"2021-09-10T06:42:42.550Z","_id":"613afe623be66b0cf82b8e50","programName":"","sessionStatus":"","positionImages":[],"userStatus":"Not Verified","isActive":true,"basic":{"firstName":"super","lastName":"man","email":"shridhar.bhande@tudip.nl","password":"$2a$10$Y00e52Izp6m6x5WdYtfcLuiRSy3rmcj0Wnq27Xp0CaQb5YH5oAfFi","mobileNumber":"","roles":[{"role":"6038cd8a723a4004bb3a50cd","name":"admin","_id":"613afe623be66b0cf82b8e51"}],"profileImageURL":"/public/images/profiles/default.png","isActive":false},"__v":0}}
+{"message":"POST /users/signup 400 - 889.133 ms","level":"info","timestamp":"2021-09-10T06:42:43.117Z"}
+{"message":"POST /users/signup - - - ms","level":"info","timestamp":"2021-09-10T06:43:44.435Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-10T06:50:23.498Z"}
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: mydb.users index: basic.email_1 dup key: { : \"super09@man.com\" }","op":{"updatedAt":"2021-09-10T06:50:36.110Z","createdAt":"2021-09-10T06:50:36.110Z","_id":"613b003c2d3a081454937447","programName":"","sessionStatus":"","positionImages":[],"userStatus":"Not Verified","isActive":true,"basic":{"firstName":"super","lastName":"man","email":"super09@man.com","password":"$2a$10$FMnm8m.d9DZiTpCyURVhWO58V537V7cLq6xRYPXFSZMw2ALIYhOha","mobileNumber":"","roles":[{"role":"6038cd8a723a4004bb3a50cd","name":"admin","_id":"613b003c2d3a081454937448"}],"profileImageURL":"/public/images/profiles/default.png","isActive":false},"__v":0}}
+{"message":"POST /users/signup 400 - 296.104 ms","level":"info","timestamp":"2021-09-10T06:50:36.369Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-10T07:00:32.397Z"}
+{"message":"No user role data found in the database","level":"error","timestamp":"2021-09-10T07:01:53.375Z"}
+{"message":"POST /users/signup 400 - 28.944 ms","level":"info","timestamp":"2021-09-10T07:01:53.386Z"}
+{"message":"ERROR_WHILE_MAIL_SENDING","level":"error","timestamp":"2021-09-10T07:03:06.409Z"}
+{"message":"POST /users/signup 400 - 2762.558 ms","level":"info","timestamp":"2021-09-10T07:03:06.412Z"}
+{"message":"Invalid or missing API key","level":"error","timestamp":"2021-09-10T07:07:30.015Z"}
+{"message":"POST /users/logi 400 - 5.796 ms","level":"info","timestamp":"2021-09-10T07:07:30.018Z"}
+{"message":"POST /users/login 200 - 327.665 ms","level":"info","timestamp":"2021-09-10T07:08:30.615Z"}
+{"message":"No token is provided","level":"error","timestamp":"2021-09-10T07:10:28.219Z"}
+{"message":"GET /users/logout 401 - 1.553 ms","level":"info","timestamp":"2021-09-10T07:10:28.221Z"}
+{"message":"POST /users/login 200 - 164.940 ms","level":"info","timestamp":"2021-09-10T07:10:53.056Z"}
+{"message":"GET /users/logout 200 - 22.343 ms","level":"info","timestamp":"2021-09-10T07:12:07.963Z"}
+{"message":"PUT /users/changePassword 400 - 14.037 ms","level":"info","timestamp":"2021-09-10T07:14:39.359Z"}
+{"message":"Invalid or missing API key","level":"error","timestamp":"2021-09-10T07:15:41.041Z"}
+{"message":"POST /users/logi?password=super@123 400 - 2.408 ms","level":"info","timestamp":"2021-09-10T07:15:41.045Z"}
+{"message":"No token is provided","level":"error","timestamp":"2021-09-10T07:16:12.339Z"}
+{"message":"POST /users/logi?password=super@123 401 - 1.567 ms","level":"info","timestamp":"2021-09-10T07:16:12.341Z"}
+{"message":"POST /users/logi?password=super@123 404 - 6.937 ms","level":"info","timestamp":"2021-09-10T07:16:20.345Z"}
